@@ -3,7 +3,6 @@ This repo contains the codes for the Robotics Specialization offered by UPenn on
 
 ## Aerial Robotics 
 
-#### MinimumSnap Trajectory:
 ![MinimumSnap](https://github.com/VineetTambe/Robotics-Coursera/blob/master/Aerial%20Robotics/assignment3_code/MinimumSnapTraj.gif)  
 
 #### PD Controller:
